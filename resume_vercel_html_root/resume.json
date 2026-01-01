@@ -1,0 +1,99 @@
+{
+  "name": "ALISMAIL M",
+  "objective": "I look forward to commit my skills with an organization where there is recognition for skilled work and to put in maximum contribution for the growth of the company.",
+  "contact": {
+    "email": "ismailmalik0703@gmail.com",
+    "linkedin": "http://www.linkedin.com/in/alismail-malik-06539b213",
+    "phone": "+91 7200727787",
+    "address": "4/54, Venkatasamy Street, Mullaivadi, Attur, Salem-636 141"
+  },
+  "languages": [
+    {
+      "name": "Tamil",
+      "level": "read, speak and write"
+    },
+    {
+      "name": "English",
+      "level": "read, speak and write"
+    },
+    {
+      "name": "Hindi",
+      "level": "only speak"
+    },
+    {
+      "name": "Urdu",
+      "level": "only speak"
+    }
+  ],
+  "education": [
+    {
+      "course": "B.E, ECE",
+      "institution": "Karpagam College of Engineering, Coimbatore",
+      "year": "From 2020",
+      "marks": "8.36 CGPA"
+    },
+    {
+      "course": "S.S.L.C (State Board)",
+      "institution": "Saraswathi Metric Hr. Sec School, Attur, Salem",
+      "year": "2018",
+      "marks": "68%"
+    },
+    {
+      "course": "H.S.C (State Board)",
+      "institution": "Saraswathi Metric Hr. Sec School, Attur, Salem",
+      "year": "2020",
+      "marks": "60%"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Application and Business Development Engineer",
+      "company": "Makdy Techcorp Private Limited",
+      "period": "September 2024 – September 2025",
+      "highlights": [
+        "Develop automation, robotics, and machine vision solutions for industrial applications.",
+        "Understand customer requirements and design customized technical solutions.",
+        "Drive business expansion through strategic planning and client engagement.",
+        "Integrate advanced technologies to enhance efficiency, accuracy, and productivity."
+      ]
+    }
+  ],
+  "certifications": [
+    "Completed a Java course online by Infosys Springboard.",
+    "Attended workshop on Fundamentals of ARDUINO & IOT.",
+    "Completed the Oracle SQL course offered by Great Learning Academy."
+  ],
+  "projects": [
+    {
+      "name": "Color Code Inspection System",
+      "description": "Developed an automated VisionMaster-based solution system for real-time color code inspection in production lines. Designed and implemented image acquisition, processing, and analysis to ensure accurate identification of color-coded labels. Optimized color segmentation and edge detection to enhance accuracy and minimize errors, improving overall quality control."
+    },
+    {
+      "name": "Dimensional Inspection System",
+      "description": "Designed an automated VisionMaster-based solution system for precision dimensional inspection of manufactured components. Integrated machine vision algorithms for edge detection, feature extraction, and tolerance verification to measure critical dimensions (ID, OD, groove length, and height). Optimized workflows to enhance inspection speed, accuracy, and industrial quality control."
+    }
+  ],
+  "skills": {
+    "technical": [
+      "MS Office",
+      "Eclipse",
+      "VisionMaster",
+      "MVS",
+      "Vision Assistant",
+      "Canva"
+    ],
+    "soft": [
+      "Business Development",
+      "Customer Handling",
+      "Project Management",
+      "Leadership Qualities",
+      "Team work",
+      "Time Management"
+    ],
+    "additional": [
+      "User Interface designing",
+      "Video editing",
+      "Poster and Banner designing"
+    ]
+  }
+}
