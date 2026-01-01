@@ -7,7 +7,8 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, ListFlowabl
 
 
 
-# api/index.py
+
+# api/index.py (must export `app`)
 from flask import Flask
 
 app = Flask(__name__)
@@ -15,6 +16,7 @@ app = Flask(__name__)
 @app.get("/")
 def root():
     return "Flask serverless function on Vercel"
+
 
 
 
